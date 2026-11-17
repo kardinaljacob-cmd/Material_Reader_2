@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Material Reader</string>
+    <string name="tab_library">Библиотека</string>
+    <string name="tab_reading_now">Читаю</string>
+    <string name="tab_appearance">Стиль</string>
+    <string name="action_import_book">Открыть книгу</string>
+    <string name="action_search_books">Поиск по книгам</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_favorites">Избранное</string>
+    <string name="format_epub">EPUB</string>
+    <string name="format_fb2">FB2</string>
+    <string name="format_pdf">PDF</string>
+    <string name="format_txt">TXT</string>
+</resources>

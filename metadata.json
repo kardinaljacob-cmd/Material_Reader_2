@@ -1,0 +1,6 @@
+{
+  "name": "Material Reader",
+  "description": "Выразительная читалка электронных книг Material Reader в стиле Material 3 Expressive с динамическими цветами обоев, морфинг-анимациями, тактильным откликом и поддержкой EPUB, FB2, PDF, TXT, HTML и MD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
